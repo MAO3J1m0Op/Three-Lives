@@ -1,0 +1,3 @@
+team join Life1
+gamemode survival
+tellraw @s ["",{"text":"Welcome to Three Lives: a hardcore adventure where each player has, well, three lives! Here, cooperation, deception, and chaos are driven by the competition of scoring points. Players on their "},{"text":"first","color":"blue"},{"text":" and "},{"text":"second","color":"dark_aqua"},{"text":" lives will earn points for surviving. However, players on their "},{"text":"final life","color":"dark_red"},{"text":" earn points exclusively through killing other players. Best of luck!\nYou are on your "},{"text":"first life","color":"blue"},{"text":". You will receive a point every "},{"score":{"name":"Life1Mins","objective":"3LivesSettings"}},{"text":" minutes so long as you stay alive."}]

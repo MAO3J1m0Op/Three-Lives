@@ -1,0 +1,7 @@
+{
+    "values": [
+        "threelives:detect_points",
+        "threelives:detect_deaths",
+        "threelives:detect_triggers"
+    ]
+}
